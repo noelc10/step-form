@@ -1,6 +1,8 @@
-# step-form
+# Multi-step Form Scaffolding
 
-## Project setup
+Multi-step form scaffolding repository using Vue 2 and LESS
+
+## Setup
 ```
 yarn install
 ```
@@ -19,6 +21,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
