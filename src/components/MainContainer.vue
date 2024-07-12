@@ -12,10 +12,10 @@
 </template>
 
 <script>
-  import FormProgressSection from './../components/form-container/FormProgressSection'
-  import FormFieldsSection from './../components/form-container/FormFieldsSection'
-  import MarketingSection from './../components/form-container/MarketingSection'
-  import PhoneSection from './../components/form-container/PhoneSection'
+  import FormProgressSection from '@/components/form-container/FormProgressSection'
+  import FormFieldsSection from '@/components/form-container/FormFieldsSection'
+  import MarketingSection from '@/components/form-container/MarketingSection'
+  import PhoneSection from '@/components/form-container/PhoneSection'
 
   export default {
     components: {
